@@ -1,3 +1,6 @@
 [submodule "TensorFlow/models_ref"]
 	path = TensorFlow/models_ref
 	url = git@github.com:melishua/models.git
+[submodule "TensorFlow/addons/labelImg"]
+	path = TensorFlow/addons/labelImg
+	url = git@github.com:melishua/labelImg.git
