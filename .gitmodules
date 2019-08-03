@@ -1,0 +1,3 @@
+[submodule "TensorFlow/models_ref"]
+	path = TensorFlow/models_ref
+	url = git@github.com:melishua/models.git
